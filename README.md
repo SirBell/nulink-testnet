@@ -1,5 +1,5 @@
-**Requirement**.
--Debian/Ubuntu-
+**Requirement**
+<Debian/Ubuntu>
 *30GB available storage
 *4GB RAM
 x86 architecture
