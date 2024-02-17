@@ -1,4 +1,4 @@
-**Requirement**
+**Requirement**.
 -Debian/Ubuntu-
 *30GB available storage
 *4GB RAM
