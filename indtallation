@@ -1,6 +1,0 @@
-sudo apt update && apt upgrade -y
-install go 
-sudo apt update
-$moniker = change to your own name whatever you want, cause that for your name
-add wallet 
-add wallet --restore
