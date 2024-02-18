@@ -1,4 +1,0 @@
-### Update depedencies   
-```
-sudo apt update && sudo apt upgrade
-```
