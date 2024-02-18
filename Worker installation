@@ -1,1 +1,2 @@
-# Update depedencies   
+# Update depedencies  
+'sudo apt update && apt upgrade -y'
